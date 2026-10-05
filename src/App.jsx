@@ -4,7 +4,7 @@ import profileImage from './assets/profile.png'
 
 // This object stores the words and links shown on the page.
 // You can edit the text here without needing to change the layout below.
-// Change these details to make this website yours.
+// Change these details to make this website yours. 
 const siteInfo = {
   
   name: 'Devika Pramodd',
